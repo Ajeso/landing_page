@@ -36,7 +36,7 @@ body {
 .email-section {
     text-align: center;
 }
-h2, form {
+form {
     padding: 10px;
 }
 form {
@@ -61,3 +61,73 @@ form {
     background-color: orange;
     cursor: pointer;
 }
+
+.container{
+    display: flex;
+
+    flex-direction: column;
+
+    margin-top: 2rem;
+
+    justify-content: center;
+
+    align-items: center;
+
+    
+}
+
+.features-container {
+    max-width: 900px;
+
+    margin: auto;
+
+    margin-bottom: 2rem;
+}
+
+.features-container > *:not(:first-child) {
+    margin-top: 1rem;
+
+}
+
+.feature-row {
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 5rem;
+}
+
+.feature-row svg {
+    width: 150px;
+
+    height: auto;
+}
+
+.row{
+    display: flex;
+
+    justify-content: space-between;
+
+    width: 1000px;
+
+    padding: 30px;
+
+}
+
+.img{
+    width: 100px;
+
+    height: 30px;
+}
+
+.video-frame{
+    margin-top: 3rem;
+
+    margin-bottom: 2rem;
+}
+svg{
+    color: rgb(229, 163, 11);
+}
+
