@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Original Trombrones Landing Page
+                        last updated: 2020-01-01
 
-You can use the [editor on GitHub](https://github.com/Ajeso/landing_page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+Original Trombrones Landing page is a simple landing page for the original Trombrones make-up company.<br> 
+This page is created using the [GitHub Markdown](https://help.github.com/articles/github-flavored-markdown/) syntax.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Structure
+The page is divided into sections. Each section is a header with a description. The header is followed by a list of links.
 
-### Markdown
+## Organization
+The landing page is named `index.html`. Resources like images and CSS files are stored in the `resources` folder.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ajeso/landing_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##### Contributors:
++ @chibike460  
++ @stan-breaks
++ @Ajeso
